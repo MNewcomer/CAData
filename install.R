@@ -1,0 +1,5 @@
+install.packages('dataRetrieval')
+install.packages('EGRET')
+install.packages('zoo')
+install.packages('leaflet')
+install.packages('dplyr')
